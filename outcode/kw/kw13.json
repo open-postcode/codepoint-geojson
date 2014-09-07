@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.890816680739601,
+          58.45104948749853
+        ]
+      },
+      "properties": {
+        "id": "KW136YT",
+        "quality": 10,
+        "easting": 289664,
+        "northing": 952932,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9003032680735705,
+          58.46359528911486
+        ]
+      },
+      "properties": {
+        "id": "KW136YU",
+        "quality": 10,
+        "easting": 289150,
+        "northing": 954344,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002662"
+      }
+    }
+  ]
+}

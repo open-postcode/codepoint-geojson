@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.454750438516072,
+          56.87341277517571
+        ]
+      },
+      "properties": {
+        "id": "PH374LS",
+        "quality": 10,
+        "easting": 189491,
+        "northing": 781080,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.444210844381094,
+          56.87075505760174
+        ]
+      },
+      "properties": {
+        "id": "PH374LT",
+        "quality": 10,
+        "easting": 190118,
+        "northing": 780752,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5927699370231965,
+          56.78489470908066
+        ]
+      },
+      "properties": {
+        "id": "PH374LU",
+        "quality": 10,
+        "easting": 180568,
+        "northing": 771669,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.609849441774041,
+          56.75875657230888
+        ]
+      },
+      "properties": {
+        "id": "PH374LX",
+        "quality": 10,
+        "easting": 179372,
+        "northing": 768817,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002683"
+      }
+    }
+  ]
+}

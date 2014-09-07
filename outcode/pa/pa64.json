@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.685066313640604,
+          56.43792374169273
+        ]
+      },
+      "properties": {
+        "id": "PA646AP",
+        "quality": 10,
+        "easting": 172859,
+        "northing": 733383,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000035",
+        "ward": "S13002519"
+      }
+    }
+  ]
+}

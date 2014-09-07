@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4646304466021658,
+          52.914713693216946
+        ]
+      },
+      "properties": {
+        "id": "DE993AA",
+        "quality": 10,
+        "easting": 435996,
+        "northing": 335424,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000004",
+        "county": "",
+        "district": "E06000015",
+        "ward": "E05001770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4646304466021658,
+          52.914713693216946
+        ]
+      },
+      "properties": {
+        "id": "DE993AB",
+        "quality": 10,
+        "easting": 435996,
+        "northing": 335424,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000004",
+        "county": "",
+        "district": "E06000015",
+        "ward": "E05001770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4646304466021658,
+          52.914713693216946
+        ]
+      },
+      "properties": {
+        "id": "DE993AL",
+        "quality": 10,
+        "easting": 435996,
+        "northing": 335424,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000004",
+        "county": "",
+        "district": "E06000015",
+        "ward": "E05001770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4536732349154162,
+          52.915553870925976
+        ]
+      },
+      "properties": {
+        "id": "DE993GG",
+        "quality": 10,
+        "easting": 436732,
+        "northing": 335523,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000004",
+        "county": "",
+        "district": "E06000015",
+        "ward": "E05001769"
+      }
+    }
+  ]
+}

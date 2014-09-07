@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9876435077758146,
+          57.11695198618207
+        ]
+      },
+      "properties": {
+        "id": "IV468SA",
+        "quality": 10,
+        "easting": 158623,
+        "northing": 809928,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9781383950353675,
+          57.107254064447936
+        ]
+      },
+      "properties": {
+        "id": "IV468SB",
+        "quality": 10,
+        "easting": 159135,
+        "northing": 808816,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002672"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.955731378754097,
+          51.34338408124195
+        ]
+      },
+      "properties": {
+        "id": "BS0 1ZZ",
+        "quality": 10,
+        "easting": 333440,
+        "northing": 160967,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000002",
+        "nhsHealthAuthority": "E18000010",
+        "county": "",
+        "district": "E06000024",
+        "ward": "E05008606"
+      }
+    }
+  ]
+}

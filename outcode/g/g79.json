@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.221791239590242,
+          55.77105416992086
+        ]
+      },
+      "properties": {
+        "id": "G79 1AA",
+        "quality": 10,
+        "easting": 260640,
+        "northing": 655312,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000023",
+        "county": "",
+        "district": "S12000029",
+        "ward": "S13002795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.221791239590242,
+          55.77105416992086
+        ]
+      },
+      "properties": {
+        "id": "G79 1AB",
+        "quality": 10,
+        "easting": 260640,
+        "northing": 655312,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000023",
+        "county": "",
+        "district": "S12000029",
+        "ward": "S13002795"
+      }
+    }
+  ]
+}

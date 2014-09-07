@@ -1,0 +1,1853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9899577904798718,
+          54.95762824759873
+        ]
+      },
+      "properties": {
+        "id": "NE446AA",
+        "quality": 10,
+        "easting": 400643,
+        "northing": 562563,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9942218627212,
+          54.95464474521436
+        ]
+      },
+      "properties": {
+        "id": "NE446AB",
+        "quality": 10,
+        "easting": 400370,
+        "northing": 562231,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9986884454738076,
+          54.94731124187393
+        ]
+      },
+      "properties": {
+        "id": "NE446AD",
+        "quality": 10,
+        "easting": 400084,
+        "northing": 561415,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9985323499384344,
+          54.94616086539609
+        ]
+      },
+      "properties": {
+        "id": "NE446AF",
+        "quality": 10,
+        "easting": 400094,
+        "northing": 561287,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0074312553859275,
+          54.94250281367475
+        ]
+      },
+      "properties": {
+        "id": "NE446AG",
+        "quality": 10,
+        "easting": 399524,
+        "northing": 560880,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.003449838695831,
+          54.93798237392657
+        ]
+      },
+      "properties": {
+        "id": "NE446AH",
+        "quality": 10,
+        "easting": 399779,
+        "northing": 560377,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.003168730576641,
+          54.93638263924714
+        ]
+      },
+      "properties": {
+        "id": "NE446AJ",
+        "quality": 10,
+        "easting": 399797,
+        "northing": 560199,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9792350224267117,
+          54.944784043625155
+        ]
+      },
+      "properties": {
+        "id": "NE446AL",
+        "quality": 10,
+        "easting": 401330,
+        "northing": 561134,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976533956724851,
+          54.944882412703066
+        ]
+      },
+      "properties": {
+        "id": "NE446AP",
+        "quality": 10,
+        "easting": 401503,
+        "northing": 561145,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.013612248555603,
+          54.93861976020987
+        ]
+      },
+      "properties": {
+        "id": "NE446AQ",
+        "quality": 10,
+        "easting": 399128,
+        "northing": 560448,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9727404533825295,
+          54.944279471923124
+        ]
+      },
+      "properties": {
+        "id": "NE446AR",
+        "quality": 10,
+        "easting": 401746,
+        "northing": 561078,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9717252454580163,
+          54.94483645304937
+        ]
+      },
+      "properties": {
+        "id": "NE446AS",
+        "quality": 10,
+        "easting": 401811,
+        "northing": 561140,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9706940434537623,
+          54.9458787362312
+        ]
+      },
+      "properties": {
+        "id": "NE446AT",
+        "quality": 10,
+        "easting": 401877,
+        "northing": 561256,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9690551765421096,
+          54.94520428235324
+        ]
+      },
+      "properties": {
+        "id": "NE446AU",
+        "quality": 10,
+        "easting": 401982,
+        "northing": 561181,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9673270612192284,
+          54.93913739631817
+        ]
+      },
+      "properties": {
+        "id": "NE446AX",
+        "quality": 10,
+        "easting": 402093,
+        "northing": 560506,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9771494716088844,
+          54.93321699644675
+        ]
+      },
+      "properties": {
+        "id": "NE446AY",
+        "quality": 10,
+        "easting": 401464,
+        "northing": 559847,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9568293960661622,
+          54.931431988714934
+        ]
+      },
+      "properties": {
+        "id": "NE446AZ",
+        "quality": 10,
+        "easting": 402766,
+        "northing": 559649,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9564645003706755,
+          54.92246250073696
+        ]
+      },
+      "properties": {
+        "id": "NE446BA",
+        "quality": 10,
+        "easting": 402790,
+        "northing": 558651,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9537570519297212,
+          54.915774916797304
+        ]
+      },
+      "properties": {
+        "id": "NE446BB",
+        "quality": 10,
+        "easting": 402964,
+        "northing": 557907,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9523449261315182,
+          54.909330438496504
+        ]
+      },
+      "properties": {
+        "id": "NE446BD",
+        "quality": 10,
+        "easting": 403055,
+        "northing": 557190,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9907502917078115,
+          54.907047652752574
+        ]
+      },
+      "properties": {
+        "id": "NE446BE",
+        "quality": 10,
+        "easting": 400593,
+        "northing": 556935,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.007582823558582,
+          54.918317908623855
+        ]
+      },
+      "properties": {
+        "id": "NE446BG",
+        "quality": 10,
+        "easting": 399514,
+        "northing": 558189,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9933225748089751,
+          54.9155858084035
+        ]
+      },
+      "properties": {
+        "id": "NE446BH",
+        "quality": 10,
+        "easting": 400428,
+        "northing": 557885,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9785146636763442,
+          54.91957447438472
+        ]
+      },
+      "properties": {
+        "id": "NE446BJ",
+        "quality": 10,
+        "easting": 401377,
+        "northing": 558329,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.965628897796058,
+          54.91685733547769
+        ]
+      },
+      "properties": {
+        "id": "NE446BL",
+        "quality": 10,
+        "easting": 402203,
+        "northing": 558027,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9829133777499592,
+          54.92272074143437
+        ]
+      },
+      "properties": {
+        "id": "NE446BN",
+        "quality": 10,
+        "easting": 401095,
+        "northing": 558679,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0086609297824167,
+          54.92545378389458
+        ]
+      },
+      "properties": {
+        "id": "NE446BP",
+        "quality": 10,
+        "easting": 399445,
+        "northing": 558983,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9935258871488621,
+          54.912512145433524
+        ]
+      },
+      "properties": {
+        "id": "NE446BQ",
+        "quality": 10,
+        "easting": 400415,
+        "northing": 557543,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9730354681785667,
+          54.946706109913826
+        ]
+      },
+      "properties": {
+        "id": "NE446BS",
+        "quality": 10,
+        "easting": 401727,
+        "northing": 561348,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9753165215895356,
+          54.94428900947346
+        ]
+      },
+      "properties": {
+        "id": "NE446BT",
+        "quality": 10,
+        "easting": 401581,
+        "northing": 561079,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9741302373617828,
+          54.94386635945692
+        ]
+      },
+      "properties": {
+        "id": "NE446BU",
+        "quality": 10,
+        "easting": 401657,
+        "northing": 561032,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.000764694465905,
+          54.9273414298393
+        ]
+      },
+      "properties": {
+        "id": "NE446BW",
+        "quality": 10,
+        "easting": 399951,
+        "northing": 559193,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9724100661860398,
+          54.94796419186387
+        ]
+      },
+      "properties": {
+        "id": "NE446DF",
+        "quality": 10,
+        "easting": 401767,
+        "northing": 561488,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9713799830349057,
+          54.94734382998596
+        ]
+      },
+      "properties": {
+        "id": "NE446DG",
+        "quality": 10,
+        "easting": 401833,
+        "northing": 561419,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9707087483976038,
+          54.94712797489694
+        ]
+      },
+      "properties": {
+        "id": "NE446DH",
+        "quality": 10,
+        "easting": 401876,
+        "northing": 561395,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9721138108627134,
+          54.94737096239895
+        ]
+      },
+      "properties": {
+        "id": "NE446DJ",
+        "quality": 10,
+        "easting": 401786,
+        "northing": 561422,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9737531743012386,
+          54.94749714953562
+        ]
+      },
+      "properties": {
+        "id": "NE446DL",
+        "quality": 10,
+        "easting": 401681,
+        "northing": 561436,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9772043105521104,
+          54.94664405180749
+        ]
+      },
+      "properties": {
+        "id": "NE446DN",
+        "quality": 10,
+        "easting": 401460,
+        "northing": 561341,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9732704638482954,
+          54.945510850425805
+        ]
+      },
+      "properties": {
+        "id": "NE446DP",
+        "quality": 10,
+        "easting": 401712,
+        "northing": 561215,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9714109107881936,
+          54.94776624043023
+        ]
+      },
+      "properties": {
+        "id": "NE446DQ",
+        "quality": 10,
+        "easting": 401831,
+        "northing": 561466,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9720523907491556,
+          54.94587905602891
+        ]
+      },
+      "properties": {
+        "id": "NE446DR",
+        "quality": 10,
+        "easting": 401790,
+        "northing": 561256,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.970631007626289,
+          54.9466785910225
+        ]
+      },
+      "properties": {
+        "id": "NE446DS",
+        "quality": 10,
+        "easting": 401881,
+        "northing": 561345,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9700692422242072,
+          54.94624706349026
+        ]
+      },
+      "properties": {
+        "id": "NE446DT",
+        "quality": 10,
+        "easting": 401917,
+        "northing": 561297,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9692880687567078,
+          54.946911929111145
+        ]
+      },
+      "properties": {
+        "id": "NE446DU",
+        "quality": 10,
+        "easting": 401967,
+        "northing": 561371,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9747845804830608,
+          54.94606838669332
+        ]
+      },
+      "properties": {
+        "id": "NE446DW",
+        "quality": 10,
+        "easting": 401615,
+        "northing": 561277,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9690380648696175,
+          54.94715452287109
+        ]
+      },
+      "properties": {
+        "id": "NE446DX",
+        "quality": 10,
+        "easting": 401983,
+        "northing": 561398,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9676952450490157,
+          54.94720809734424
+        ]
+      },
+      "properties": {
+        "id": "NE446DY",
+        "quality": 10,
+        "easting": 402069,
+        "northing": 561404,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9654796549892857,
+          54.94539205322533
+        ]
+      },
+      "properties": {
+        "id": "NE446DZ",
+        "quality": 10,
+        "easting": 402211,
+        "northing": 561202,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.966539651972404,
+          54.94742348008757
+        ]
+      },
+      "properties": {
+        "id": "NE446EA",
+        "quality": 10,
+        "easting": 402143,
+        "northing": 561428,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9663523015629842,
+          54.947405453784874
+        ]
+      },
+      "properties": {
+        "id": "NE446EB",
+        "quality": 10,
+        "easting": 402155,
+        "northing": 561426,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9668829631613547,
+          54.947657243916574
+        ]
+      },
+      "properties": {
+        "id": "NE446ED",
+        "quality": 10,
+        "easting": 402121,
+        "northing": 561454,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9674917737833713,
+          54.94781917962784
+        ]
+      },
+      "properties": {
+        "id": "NE446EE",
+        "quality": 10,
+        "easting": 402082,
+        "northing": 561472,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9676788814705939,
+          54.94814277234014
+        ]
+      },
+      "properties": {
+        "id": "NE446EF",
+        "quality": 10,
+        "easting": 402070,
+        "northing": 561508,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9663041372152592,
+          54.948987205363224
+        ]
+      },
+      "properties": {
+        "id": "NE446EG",
+        "quality": 10,
+        "easting": 402158,
+        "northing": 561602,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9674594352039467,
+          54.94919422790282
+        ]
+      },
+      "properties": {
+        "id": "NE446EH",
+        "quality": 10,
+        "easting": 402084,
+        "northing": 561625,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.967022399216644,
+          54.94898740227909
+        ]
+      },
+      "properties": {
+        "id": "NE446EJ",
+        "quality": 10,
+        "easting": 402112,
+        "northing": 561602,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9669913250813558,
+          54.948798660556044
+        ]
+      },
+      "properties": {
+        "id": "NE446EL",
+        "quality": 10,
+        "easting": 402114,
+        "northing": 561581,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9693653097715436,
+          54.94799941209736
+        ]
+      },
+      "properties": {
+        "id": "NE446EN",
+        "quality": 10,
+        "easting": 401962,
+        "northing": 561492,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9704421686459432,
+          54.948691700755
+        ]
+      },
+      "properties": {
+        "id": "NE446EP",
+        "quality": 10,
+        "easting": 401893,
+        "northing": 561569,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9646482940559455,
+          54.94980457944221
+        ]
+      },
+      "properties": {
+        "id": "NE446EQ",
+        "quality": 10,
+        "easting": 402264,
+        "northing": 561693,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9670699770500086,
+          54.9480886851602
+        ]
+      },
+      "properties": {
+        "id": "NE446ET",
+        "quality": 10,
+        "easting": 402109,
+        "northing": 561502,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9711950533559903,
+          54.94393759798646
+        ]
+      },
+      "properties": {
+        "id": "NE446EX",
+        "quality": 10,
+        "easting": 401845,
+        "northing": 561040,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.978685527960187,
+          54.95054480856712
+        ]
+      },
+      "properties": {
+        "id": "NE446HA",
+        "quality": 10,
+        "easting": 401365,
+        "northing": 561775,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.973595975877179,
+          54.94911482955472
+        ]
+      },
+      "properties": {
+        "id": "NE446HE",
+        "quality": 10,
+        "easting": 401691,
+        "northing": 561616,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9724714474237637,
+          54.94953698321637
+        ]
+      },
+      "properties": {
+        "id": "NE446HF",
+        "quality": 10,
+        "easting": 401763,
+        "northing": 561663,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9720663837953425,
+          54.948215757815476
+        ]
+      },
+      "properties": {
+        "id": "NE446HG",
+        "quality": 10,
+        "easting": 401789,
+        "northing": 561516,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9716448096094679,
+          54.94820667293854
+        ]
+      },
+      "properties": {
+        "id": "NE446HH",
+        "quality": 10,
+        "easting": 401816,
+        "northing": 561515,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9713636154510188,
+          54.948404327649165
+        ]
+      },
+      "properties": {
+        "id": "NE446HJ",
+        "quality": 10,
+        "easting": 401834,
+        "northing": 561537,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9732214682464875,
+          54.948755255681846
+        ]
+      },
+      "properties": {
+        "id": "NE446HL",
+        "quality": 10,
+        "easting": 401715,
+        "northing": 561576,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9757817546144922,
+          54.949519712977605
+        ]
+      },
+      "properties": {
+        "id": "NE446HN",
+        "quality": 10,
+        "easting": 401551,
+        "northing": 561661,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9755321230086291,
+          54.949187132951664
+        ]
+      },
+      "properties": {
+        "id": "NE446HP",
+        "quality": 10,
+        "easting": 401567,
+        "northing": 561624,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.971925982219405,
+          54.94803597946879
+        ]
+      },
+      "properties": {
+        "id": "NE446HQ",
+        "quality": 10,
+        "easting": 401798,
+        "northing": 561496,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9743615868767141,
+          54.94832411102079
+        ]
+      },
+      "properties": {
+        "id": "NE446HR",
+        "quality": 10,
+        "easting": 401642,
+        "northing": 561528,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9760323207663006,
+          54.94828850261291
+        ]
+      },
+      "properties": {
+        "id": "NE446HS",
+        "quality": 10,
+        "easting": 401535,
+        "northing": 561524,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9808882530753325,
+          54.94841518499748
+        ]
+      },
+      "properties": {
+        "id": "NE446HT",
+        "quality": 10,
+        "easting": 401224,
+        "northing": 561538,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9786550027826224,
+          54.94921468313144
+        ]
+      },
+      "properties": {
+        "id": "NE446HU",
+        "quality": 10,
+        "easting": 401367,
+        "northing": 561627,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9772492782167792,
+          54.949960374008484
+        ]
+      },
+      "properties": {
+        "id": "NE446HW",
+        "quality": 10,
+        "easting": 401457,
+        "northing": 561710,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9818869539063713,
+          54.949763432709
+        ]
+      },
+      "properties": {
+        "id": "NE446HX",
+        "quality": 10,
+        "easting": 401160,
+        "northing": 561688,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9879611130135342,
+          54.94962038902247
+        ]
+      },
+      "properties": {
+        "id": "NE446HY",
+        "quality": 10,
+        "easting": 400771,
+        "northing": 561672,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9903190293554356,
+          54.94918022198602
+        ]
+      },
+      "properties": {
+        "id": "NE446HZ",
+        "quality": 10,
+        "easting": 400620,
+        "northing": 561623,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9921305324379746,
+          54.94802997837182
+        ]
+      },
+      "properties": {
+        "id": "NE446JA",
+        "quality": 10,
+        "easting": 400504,
+        "northing": 561495,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9928488221566723,
+          54.94777837832015
+        ]
+      },
+      "properties": {
+        "id": "NE446JB",
+        "quality": 10,
+        "easting": 400458,
+        "northing": 561467,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9708324540013855,
+          54.948790655296065
+        ]
+      },
+      "properties": {
+        "id": "NE446JD",
+        "quality": 10,
+        "easting": 401868,
+        "northing": 561580,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9660075623699036,
+          54.94887028792329
+        ]
+      },
+      "properties": {
+        "id": "NE446JE",
+        "quality": 10,
+        "easting": 402177,
+        "northing": 561589,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000001",
+        "county": "",
+        "district": "E06000057",
+        "ward": "E05009156"
+      }
+    }
+  ]
+}

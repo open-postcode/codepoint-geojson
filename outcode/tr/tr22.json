@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3439031079669235,
+          49.891861202720584
+        ]
+      },
+      "properties": {
+        "id": "TR220PL",
+        "quality": 10,
+        "easting": 88068,
+        "northing": 8195,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000002",
+        "nhsHealthAuthority": "E18000010",
+        "county": "",
+        "district": "E06000053",
+        "ward": "E05008323"
+      }
+    }
+  ]
+}

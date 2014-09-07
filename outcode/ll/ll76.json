@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2569125362206375,
+          53.298210014664654
+        ]
+      },
+      "properties": {
+        "id": "LL768NX",
+        "quality": 10,
+        "easting": 249609,
+        "northing": 380323,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.234909133201195,
+          53.29763541397751
+        ]
+      },
+      "properties": {
+        "id": "LL768SJ",
+        "quality": 10,
+        "easting": 251073,
+        "northing": 380213,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.239215576603757,
+          53.299334972142645
+        ]
+      },
+      "properties": {
+        "id": "LL768SQ",
+        "quality": 10,
+        "easting": 250792,
+        "northing": 380411,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.229947263297914,
+          53.301208112482286
+        ]
+      },
+      "properties": {
+        "id": "LL768SX",
+        "quality": 10,
+        "easting": 251416,
+        "northing": 380600,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.233398565030497,
+          53.300900736991956
+        ]
+      },
+      "properties": {
+        "id": "LL768SZ",
+        "quality": 10,
+        "easting": 251185,
+        "northing": 380573,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.236483854306565,
+          53.300770969906246
+        ]
+      },
+      "properties": {
+        "id": "LL768TJ",
+        "quality": 10,
+        "easting": 250979,
+        "northing": 380565,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.235808074976973,
+          53.30019019092642
+        ]
+      },
+      "properties": {
+        "id": "LL768TQ",
+        "quality": 10,
+        "easting": 251022,
+        "northing": 380499,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.237942317802443,
+          53.30196647701139
+        ]
+      },
+      "properties": {
+        "id": "LL768TX",
+        "quality": 10,
+        "easting": 250886,
+        "northing": 380701,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24056573444374,
+          53.3047675822698
+        ]
+      },
+      "properties": {
+        "id": "LL768TZ",
+        "quality": 10,
+        "easting": 250721,
+        "northing": 381018,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000001",
+        "ward": "W05000987"
+      }
+    }
+  ]
+}

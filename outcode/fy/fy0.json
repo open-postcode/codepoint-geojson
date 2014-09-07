@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.006652800930335,
+          53.75439727632113
+        ]
+      },
+      "properties": {
+        "id": "FY0 1YS",
+        "quality": 10,
+        "easting": 333634,
+        "northing": 429165,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000002",
+        "county": "E10000017",
+        "district": "E07000119",
+        "ward": "E05005193"
+      }
+    }
+  ]
+}

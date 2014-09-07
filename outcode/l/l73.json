@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9720421564311477,
+          53.37986470688981
+        ]
+      },
+      "properties": {
+        "id": "L73 6BT",
+        "quality": 10,
+        "easting": 335347,
+        "northing": 387471,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000002",
+        "county": "",
+        "district": "E08000012",
+        "ward": "E05000907"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8359180948799294,
+          53.85029855739381
+        ]
+      },
+      "properties": {
+        "id": "BD971AD",
+        "quality": 10,
+        "easting": 410793,
+        "northing": 439376,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000003",
+        "county": "",
+        "district": "E08000032",
+        "ward": "E05001342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8359180948799294,
+          53.85029855739381
+        ]
+      },
+      "properties": {
+        "id": "BD971AF",
+        "quality": 10,
+        "easting": 410793,
+        "northing": 439376,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000003",
+        "county": "",
+        "district": "E08000032",
+        "ward": "E05001342"
+      }
+    }
+  ]
+}

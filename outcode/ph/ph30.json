@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6003277985890305,
+          56.79233257821505
+        ]
+      },
+      "properties": {
+        "id": "PH304AA",
+        "quality": 10,
+        "easting": 241194,
+        "northing": 769754,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002683"
+      }
+    }
+  ]
+}

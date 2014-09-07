@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.480900860327862,
+          58.201839291067806
+        ]
+      },
+      "properties": {
+        "id": "KW7 6HA",
+        "quality": 10,
+        "easting": 312971,
+        "northing": 924592,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4970184347236506,
+          58.18286586439211
+        ]
+      },
+      "properties": {
+        "id": "KW7 6HB",
+        "quality": 10,
+        "easting": 311977,
+        "northing": 922501,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.524027358120215,
+          58.182043097304295
+        ]
+      },
+      "properties": {
+        "id": "KW7 6HD",
+        "quality": 10,
+        "easting": 310387,
+        "northing": 922445,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5002543194810496,
+          58.184984021800894
+        ]
+      },
+      "properties": {
+        "id": "KW7 6HE",
+        "quality": 10,
+        "easting": 311792,
+        "northing": 922741,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.498548114629506,
+          58.18405176503182
+        ]
+      },
+      "properties": {
+        "id": "KW7 6HF",
+        "quality": 10,
+        "easting": 311890,
+        "northing": 922635,
+        "country": "S92000003",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "S08000022",
+        "county": "",
+        "district": "S12000017",
+        "ward": "S13002665"
+      }
+    }
+  ]
+}

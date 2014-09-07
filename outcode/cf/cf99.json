@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.160397027856277,
+          51.46389503668215
+        ]
+      },
+      "properties": {
+        "id": "CF991NA",
+        "quality": 10,
+        "easting": 319399,
+        "northing": 174573,
+        "country": "W92000004",
+        "nhsRegionalHealthAuthority": "",
+        "nhsHealthAuthority": "",
+        "county": "",
+        "district": "W06000015",
+        "ward": "W05000854"
+      }
+    }
+  ]
+}

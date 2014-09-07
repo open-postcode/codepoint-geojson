@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.430265679819023,
+          53.08903985560422
+        ]
+      },
+      "properties": {
+        "id": "CW981AD",
+        "quality": 10,
+        "easting": 371187,
+        "northing": 354767,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000002",
+        "county": "",
+        "district": "E06000049",
+        "ward": "E05008621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.430265679819023,
+          53.08903985560422
+        ]
+      },
+      "properties": {
+        "id": "CW981BA",
+        "quality": 10,
+        "easting": 371187,
+        "northing": 354767,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000002",
+        "county": "",
+        "district": "E06000049",
+        "ward": "E05008621"
+      }
+    }
+  ]
+}

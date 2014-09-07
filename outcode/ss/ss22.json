@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7085265162924161,
+          51.55646187439637
+        ]
+      },
+      "properties": {
+        "id": "SS228QP",
+        "quality": 10,
+        "easting": 587740,
+        "northing": 187705,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000006",
+        "county": "",
+        "district": "E06000033",
+        "ward": "E05002220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7085265162924161,
+          51.55646187439637
+        ]
+      },
+      "properties": {
+        "id": "SS228SB",
+        "quality": 10,
+        "easting": 587740,
+        "northing": 187705,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000006",
+        "county": "",
+        "district": "E06000033",
+        "ward": "E05002220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7085265162924161,
+          51.55646187439637
+        ]
+      },
+      "properties": {
+        "id": "SS228WF",
+        "quality": 10,
+        "easting": 587740,
+        "northing": 187705,
+        "country": "E92000001",
+        "nhsRegionalHealthAuthority": "E19000001",
+        "nhsHealthAuthority": "E18000006",
+        "county": "",
+        "district": "E06000033",
+        "ward": "E05002220"
+      }
+    }
+  ]
+}
